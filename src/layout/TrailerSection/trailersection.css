@@ -1,0 +1,22 @@
+.trailer{
+    background-image: url('/assets/images/moana2.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.trailer-outer{
+    background-image: url('/assets/images/homepage-layout.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@font-face{
+    font-family: major-font;
+    src: url('/assets/fonts/PlusJakartaSans[wght].ttf');
+}
+
+.fontss{
+    font-family: major-font;
+}
